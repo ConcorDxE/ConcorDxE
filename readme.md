@@ -1,9 +1,5 @@
 # [UNIT: CONDORDXE_AVIONICS] ✈️
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=BBA271&height=200&section=header&text=CONDORDXE&fontSize=90&animation=fadeIn" />
-</p>
-
 ---
 
 ### SYSTEM_LOG: CRITICAL_FAILURE_SECTOR_0
