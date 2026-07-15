@@ -1,29 +1,5 @@
-# [UNIT: CONDORDXE_AVIONICS] ✈️
 
----
-
-### SYSTEM_LOG: CRITICAL_FAILURE_SECTOR_0
-> **[TIMESTAMP: 2026-03-03_00:11:15]**
->
-> `ERR_SYS_EXT_303: {Σ_WORLD == 0x00_SHIT};`
->
-> `WHILE (ENV_DEGRADATION > THR_MAX) {`
-> 
-> `   DISABLE: EXTERNAL_COMMS_LINK;`
-> 
-> `   EXECUTE: SELF_RELIANCE_PROTOCOL_V.1;`
-> 
-> `   LOCK: INTERNAL_GYRO_STABILITY [α=1, β=1];`
-> 
-> `   IF (RADAR_NOISE == FULL) { TRUST_ONLY: LOCAL_HOST_CORE };`
-> 
-> `}`
->
-> **STATUS:** NO_SAR_AVAILABLE // **PILOT:** MANUAL_FLIGHT_ONLY // **SURVIVAL_PROBABILITY:** 0.1%
-
----
-
-### 🛠️ Avionics Stack
+### Skills
 
 <p align="left">
   <a href="https://skillicons.dev">
